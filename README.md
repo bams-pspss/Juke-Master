@@ -2,4 +2,4 @@
 Simple Game
 Make with RayLib 
 C++
-Project fron Udemy Course!!!!!!
+Project from Udemy Course!!!!!!
